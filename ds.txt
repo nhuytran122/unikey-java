@@ -1,5 +1,5 @@
 21t;thoi;5.5;6
 21ttt;tien;8;4;6
 tin22;ngan;7;9
-tin44;y;4;9;6
+tin44;y;9;9;9
 tin89;phan si trinh;7;6
