@@ -3,4 +3,3 @@ nv02;do thi thanh tien;25/05/2002;2;dv01
 nv03;phan thi thu ngan;15/03/2002;1;dv02
 nv04;phan thu trinh;24/03/1990;4;dv03
 nv05;phan thi thu ngan;15/03/2002;9;dv04
-nv05;le si phuc;15/02/2006;6;dv04
